@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/30638950/182581744-4ba86b70-7c0b-49e5-8c0b-059e68d8ccd1.png)
+![image](https://user-images.githubusercontent.com/30638950/182582183-27972094-b1b3-49cb-a582-7af28acee175.png)
 
 # first-responder
 Next generation API mocking utility
