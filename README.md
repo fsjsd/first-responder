@@ -3,3 +3,12 @@
 # first-responder
 Next generation API mocking utility
 
+
+
+# Repo Setup
+
+Create React App:
+
+```
+yarn create react-app "." --template typescript
+```
